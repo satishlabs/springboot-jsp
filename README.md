@@ -1,6 +1,7 @@
 # springboot-jsp
 
-Spring Boot JSP Hello World Example Tutorial
+Spring Boot JSP Hello World Example:
+
 Steps:
 1.	Create Spring boot Project
 2.	Add Maven dependencies
